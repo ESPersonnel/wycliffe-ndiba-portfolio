@@ -62,4 +62,4 @@ If you have any questions or comments, here's my Twitter handle: [@ESPersonnel](
 
 ## Thank You
 
-First post gitters. I hope you enjoyed reading my first post. I'm excited to share my knowledge with you. I hope you enjoy reading my posts as much as I enjoy writing them. If you have any questions or comments, feel free to contact me.
+First post gitters. I hope you enjoyed reading my first post. I'm excited to share my knowledge with you. If you have any questions or comments, feel free to contact me.
