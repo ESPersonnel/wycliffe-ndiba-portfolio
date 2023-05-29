@@ -19,7 +19,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio]
   author: Wycliffe Ndiba
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -115,20 +115,20 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: archives
-      name: archives
-      url: /archives/
+    - identifier: archetypes
+      name: Archetypes
+      url: /archetypes/
       weight: 0
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: projects
+      name: Projects
+      url: /projects/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: portfolio
-      name: espersonnel.net
+      name: Portfolio
       url: https://espersonnel.net
       weight: 30
 
