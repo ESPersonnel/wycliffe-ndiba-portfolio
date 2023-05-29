@@ -1,6 +1,6 @@
-baseURL: http://espersonnel.net
+baseURL: http://blog.espersonnel.net
 languageCode: en-us
-title: ESPersonnel's Blog
+title: ESPersonnel
 paginate: 5
 theme: PaperMod
 
